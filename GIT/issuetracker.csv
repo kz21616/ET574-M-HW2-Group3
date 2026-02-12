@@ -8,5 +8,5 @@ ID,TYPE,COMMIT,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
 7,task,4efea19,closed,Format Correction,David,David,2/11/2026,2/11/2026,2/11/2026,
 8,task,c464e2a,closed,Task A,Terrell,Terrell,2/6/2026,2/6/2026,2/6/2026,
 9,task,f713711,closed,Task B,Terrell,Terrell,2/8/2026,2/8/2026,2/8/2026,
-10,task,56e1e05,closed,Task C,Terrell,Terrell,2/9,2026,2/9/2026,2/9/2026,
+10,task,56e1e05,closed,Task C,Terrell,Terrell,2/9/2026,2/9/2026,2/9/2026,
 
